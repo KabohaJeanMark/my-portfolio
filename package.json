@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Jean Mark's portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabohaJeanMark/my-portfolio.git"
+  },
+  "author": "Kaboha Jean Mark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KabohaJeanMark/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/KabohaJeanMark/my-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
