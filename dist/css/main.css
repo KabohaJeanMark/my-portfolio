@@ -156,6 +156,8 @@ main {
     overflow: hidden; }
     main#home h1 {
       margin-top: 20vh; }
+  main#contact {
+    min-height: calc(100vh - 60px); }
 
 .about-info {
   display: grid;
@@ -192,6 +194,25 @@ main {
       opacity: 0.5;
       border-color: #eece1a;
       transition: all 0.8s ease-out; }
+
+.boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 1rem; }
+  .boxes div {
+    font-size: 2rem;
+    border: 2px solid #fff;
+    padding: 1.5rem 2.5rem;
+    margin-bottom: 3rem;
+    transition: all 0.8s ease-out; }
+    .boxes div:hover {
+      padding: 0.5rem 1.5rem;
+      background: #eece1a;
+      color: #000; }
+      .boxes div:hover span {
+        color: #000; }
 
 .btn, .btn-dark, .btn-light {
   display: block;
