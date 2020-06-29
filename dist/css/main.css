@@ -280,7 +280,9 @@ main {
     grid-template-columns: repeat(2, 1fr); } }
 
 @media screen and (max-width: 500px) {
-  main#home h1 {
-    margin-top: 10vh; }
+  main h1.lg-heading {
+    font-size: 3rem; }
+  main h1#home {
+    margin-top: 5vh; }
   .projects {
     grid-template-columns: 1fr; } }
