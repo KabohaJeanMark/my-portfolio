@@ -285,4 +285,6 @@ main {
   main h1#home {
     margin-top: 5vh; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  .boxes div {
+    font-size: 1rem; } }
