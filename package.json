@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/KabohaJeanMark/my-portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   }
 }
