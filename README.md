@@ -14,7 +14,7 @@ Menu Overlay
 About
 <img src="dist/img/about.png">
 
-My Work Projects
+My Projects
 <img src="dist/img/work.png">
 
 ### Demo
