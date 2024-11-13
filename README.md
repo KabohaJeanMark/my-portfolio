@@ -24,7 +24,7 @@ A live demo of the application is found [here](https://kabohajeanmark.github.io/
 - HTML5
 - CSS3
 - JavaScript
-- Sass
+- SCSS
 - npm 
 
 ### Getting started
