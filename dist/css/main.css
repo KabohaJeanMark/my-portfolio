@@ -190,6 +190,10 @@ main {
     background: #515151;
     padding: 0.5rem;
     border-bottom: 5px solid #eece1a; }
+  .about-info ul {
+    margin-left: 0;
+    padding-left: 0.6rem;
+  }
 
 .projects {
   display: grid;
