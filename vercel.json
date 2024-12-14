@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/netflix-clone/(.*)",
+        "destination": "https://earnest-druid-01cdfc.netlify.app/"
+      }
+    ]
+  }
