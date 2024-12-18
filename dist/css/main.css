@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/portrait.jpg");
+      background: url("../img/black-portrait.webp");
       border-radius: 50%;
       border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -280,7 +280,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/portrait_small.jpg");
+      background: url("../img/black-portrait-small.webp");
       width: 150px;
       height: 150px; }
   .about-info {
